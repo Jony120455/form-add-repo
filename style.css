@@ -1,0 +1,51 @@
+body{
+    background-image:linear-gradient(#0000009c,#00000075), url(./100-best-coding-team-names-and-programming-team-names.jpg);
+    font-family: 'Lato', sans-serif;
+    
+}
+.heading{
+    color: white;
+    font-weight: 700;
+}
+.box{
+    text-align: center;
+}
+.list-item label{
+    box-sizing: border-box;
+    color: white;
+}
+.list-item input{
+    margin-left: 5px;
+}
+.button{
+    border: none;
+    padding: 5px 5px;
+    border-radius: 3px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: 2s all;
+}
+
+.button:hover{
+    background-color: rgb(250, 57, 208);
+    color: blue;
+    transition: 2s all;
+}
+.list-item{
+    padding-top: 20px;
+}
+.title{
+    margin-left: 60px;
+    border-radius: 3px;
+    width: 400px;
+    height: 300px;
+    margin-left: 80px;
+    background-color: grey;
+    transition: 1s all;
+    
+}
+.title:hover{
+    box-shadow: 3px 3px 15px #e8dede;
+    transition: 1s all;
+}
